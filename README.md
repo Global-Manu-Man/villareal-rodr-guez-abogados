@@ -1,29 +1,25 @@
-# White and Case Landing Page Clone
+# Villareal Rodríguez Abogados - Sitio Web
 
-## Description
+## Descripción del Proyecto
 
-This project aims to explore the process of cloning a website for educational purposes, emphasizing web development techniques and creating a local development environment. The primary goal is to understand and replicate the structure, design, and functionality of a chosen website while respecting intellectual property rights and legal considerations.
+Este proyecto consiste en un sitio web profesional para el despacho de abogados "Villareal Rodríguez", especializado en propiedad intelectual. El sitio está diseñado para presentar los servicios legales ofrecidos por la firma, destacar su experiencia en el campo de la propiedad intelectual y facilitar el contacto con potenciales clientes.
 
-This repository contains the compiled and built version of the cloned website. Please note that the original code may be deleted or replaced by the new website that is being cloned by the owner.
+## Características Principales
 
-## Project Details
+- **Diseño Moderno y Profesional**: Interfaz elegante con una paleta de colores sobria que transmite profesionalismo y confianza.
+- **Totalmente Responsivo**: Adaptado para funcionar perfectamente en dispositivos móviles, tablets y ordenadores de escritorio.
+- **Secciones Bien Estructuradas**: Incluye áreas para presentación, servicios, equipo legal, casos de éxito, blog y contacto.
+- **Perfiles Detallados del Equipo**: Información completa sobre cada abogado con modales interactivos.
+- **Formulario de Contacto**: Facilita la comunicación directa con el despacho.
+- **Sección de Blog**: Artículos informativos sobre temas legales relacionados con la propiedad intelectual.
 
-- Purpose: Educational exploration of web development techniques through website cloning.
-- Target Website: https://www.whitecase.com/
-- Stack: ReactJS
-- Legal Considerations: Ensure compliance with intellectual property rights, copyright laws, and licensing agreements.
+## Tecnologías Utilizadas
 
-## Project Structure
+- HTML5
+- CSS3 / SCSS
+- Bootstrap 5
+- JavaScript
+- Fuentes: Inter, JetBrains Mono (Google Fonts)
+- Iconos: Bootstrap Icons
 
-- CSS - Already Built CSS styles
-- Font - Store the typography of the website
-- Images - Store the images, svg and other media that requires in the website
-- JS - this hold all the script of the website
-- index.html - Entry point of the website
-
-## Disclaimer
-
-This project and its documentation are intended for educational purposes only. It is crucial to approach website cloning ethically, respecting intellectual property rights, and complying with legal guidelines. Users should replace placeholder content with appropriate details and adhere to all relevant legal considerations when replicating a website.
-
-Feel free to customize this README further based on the specific details and goals of your website cloning project.
-# villareal-rodr-guez-abogados
+## Estructura del Proyecto
