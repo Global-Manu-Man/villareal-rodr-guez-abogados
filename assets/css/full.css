@@ -731,7 +731,8 @@ section {
 }
 
 .nav-tabs .nav-link {
-    color: #555;
+    color: #333;
+    font-weight: 500;
 }
 
 .nav-tabs .nav-link.active {
@@ -745,8 +746,8 @@ section {
     font-size: 1.1rem;
     margin-bottom: 1rem;
     font-weight: 600;
-    margin-top: 2rem;
-    padding-bottom: 0.5rem;
+    margin-top: 25px;
+    padding-bottom: 8px;
     border-bottom: 1px solid rgba(234, 188, 50, 0.3);
 }
 
@@ -765,12 +766,12 @@ section {
 }
 
 .tab-content ul li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 12px;
 }
 
 .tab-content ul ul {
-    margin-top: 0.5rem;
-    margin-bottom: 1rem;
+    margin-top: 8px;
+    margin-bottom: 15px;
 }
 
 .tab-content ul li strong {
@@ -778,7 +779,7 @@ section {
 }
 
 .tab-content ul li p {
-    margin-top: 0.25rem;
+    margin-top: 5px;
     margin-bottom: 0.75rem;
     font-style: italic;
     color: #666;
