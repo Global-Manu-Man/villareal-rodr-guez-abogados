@@ -10,6 +10,98 @@
   --font-heading: 'JetBrains Mono', monospace;
 }
 
+/* Estilos para los perfiles de abogados */
+.abogado-perfil-sidebar {
+    height: 100%;
+}
+
+.abogado-nombre {
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.abogado-cargo {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.abogado-contacto {
+    font-size: 0.9rem;
+}
+
+.abogado-contacto p {
+    margin-bottom: 0.5rem;
+}
+
+.abogado-cita {
+    background-color: rgba(234, 188, 50, 0.05);
+}
+
+.abogado-cita p {
+    margin-bottom: 0.25rem;
+    color: #555;
+}
+
+.abogado-cita small {
+    color: #777;
+}
+
+.nav-tabs .nav-link {
+    color: #555;
+}
+
+.nav-tabs .nav-link.active {
+    color: #eabc32;
+    font-weight: 500;
+    border-bottom: 2px solid #eabc32;
+}
+
+.tab-content h4 {
+    color: #333;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(234, 188, 50, 0.3);
+}
+
+.tab-content h4:first-child {
+    margin-top: 0;
+}
+
+.tab-content p, .tab-content ul {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.tab-content ul {
+    padding-left: 1.5rem;
+}
+
+.tab-content ul li {
+    margin-bottom: 0.5rem;
+}
+
+.tab-content ul ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tab-content ul li strong {
+    color: #2c5282;
+}
+
+.tab-content ul li p {
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-style: italic;
+    color: #666;
+}
+
 body {
   background: var(--background);
   color: var(--text-color);
@@ -456,15 +548,17 @@ section {
 }
 
 .--miembro-card .--div-img {
-    height: 250px;
+    height: 350px;
     overflow: hidden;
+    border-radius: 8px 8px 0 0; /* Bordes redondeados en la parte superior */
 }
 
 .--miembro-card .--div-img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    transition: transform 0.5s ease;
+    object-position: center top;
+    transition: transform 0.3s ease;
 }
 
 .--miembro-card:hover .--div-img img {
@@ -595,6 +689,131 @@ section {
     
     .--abogado-contacto {
         margin-bottom: 1.5rem;
+    }
+}
+
+/* Estilos para los modales de abogados */
+.abogado-perfil-sidebar {
+    height: 100%;
+}
+
+.abogado-nombre {
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.abogado-cargo {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.abogado-contacto {
+    font-size: 0.9rem;
+}
+
+.abogado-contacto p {
+    margin-bottom: 0.5rem;
+}
+
+.abogado-cita {
+    background-color: rgba(234, 188, 50, 0.05);
+}
+
+.abogado-cita p {
+    margin-bottom: 0.25rem;
+    color: #555;
+}
+
+.abogado-cita small {
+    color: #777;
+}
+
+.nav-tabs .nav-link {
+    color: #555;
+}
+
+.nav-tabs .nav-link.active {
+    color: #eabc32;
+    font-weight: 500;
+    border-bottom: 2px solid #eabc32;
+}
+
+.tab-content h4 {
+    color: #333;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(234, 188, 50, 0.3);
+}
+
+.tab-content h4:first-child {
+    margin-top: 0;
+}
+
+.tab-content p, .tab-content ul {
+    color: #555;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.tab-content ul {
+    padding-left: 1.5rem;
+}
+
+.tab-content ul li {
+    margin-bottom: 0.5rem;
+}
+
+.tab-content ul ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tab-content ul li strong {
+    color: #2c5282;
+}
+
+.tab-content ul li p {
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-style: italic;
+    color: #666;
+}
+
+/* Estilos adicionales para el perfil detallado del abogado */
+.tab-content ul ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tab-content ul li strong {
+    color: #2c5282;
+}
+
+.tab-content ul li p {
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-style: italic;
+    color: #666;
+}
+
+.tab-content h4 {
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid rgba(234, 188, 50, 0.3);
+}
+
+.tab-content h4:first-child {
+    margin-top: 0;
+}
+
+@media (max-width: 767px) {
+    .abogado-perfil-sidebar {
+        padding-bottom: 2rem;
     }
 }
 
