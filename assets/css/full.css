@@ -9983,5 +9983,54 @@ section {
   }
 }
 
+.abogado-perfil-sidebar {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+}
+
+.abogado-nombre {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.abogado-cargo {
+  font-size: 1rem;
+  color: #666;
+}
+
+.abogado-contacto p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.abogado-contacto a {
+  color: #007bff;
+}
+
+.abogado-cita {
+  font-style: italic;
+  background-color: #fff9e6;
+  border-left: 4px solid #ffc107;
+}
+
+.nav-tabs .nav-link.active {
+  border-color: #ffc107 #ffc107 #fff;
+  background-color: #fff8e1;
+  font-weight: 600;
+}
+
+.nav-tabs .nav-link {
+  color: #495057;
+}
+
+.tab-content h4 {
+  margin-top: 1rem;
+  font-weight: 600;
+}
+
+ul {
+  padding-left: 1.25rem;
+}
+
 /* Animations */
 @keyframes
