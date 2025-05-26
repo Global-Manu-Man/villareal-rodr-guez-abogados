@@ -617,7 +617,7 @@ section {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #eabc32;
+    background-color: #0066cc;
     color: white;
     padding: 12px 20px;
     text-decoration: none;
@@ -982,34 +982,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1060,34 +1061,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1138,34 +1140,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1216,34 +1219,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1294,34 +1298,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1372,34 +1377,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1450,34 +1456,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1528,34 +1535,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1606,34 +1614,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1684,34 +1693,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1762,34 +1772,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1840,34 +1851,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1918,34 +1930,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -1996,34 +2009,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2074,34 +2088,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2152,34 +2167,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2230,34 +2246,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2308,34 +2325,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2386,34 +2404,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2464,34 +2483,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2542,34 +2562,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2620,34 +2641,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2698,34 +2720,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2776,34 +2799,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2854,34 +2878,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -2932,34 +2957,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3010,34 +3036,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3088,34 +3115,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3166,34 +3194,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3244,34 +3273,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3322,34 +3352,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3400,34 +3431,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3478,34 +3510,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3556,34 +3589,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3634,34 +3668,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3712,34 +3747,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3790,34 +3826,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3868,34 +3905,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -3946,34 +3984,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4024,34 +4063,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4102,34 +4142,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4180,34 +4221,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4258,34 +4300,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4336,34 +4379,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4414,34 +4458,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4492,34 +4537,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4570,34 +4616,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4648,34 +4695,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4726,34 +4774,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4804,34 +4853,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4882,34 +4932,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -4960,34 +5011,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5038,34 +5090,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5116,34 +5169,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5194,34 +5248,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5272,34 +5327,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5350,34 +5406,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5428,34 +5485,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5506,34 +5564,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5584,34 +5643,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5662,34 +5722,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5740,34 +5801,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5818,34 +5880,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5896,34 +5959,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -5974,34 +6038,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6052,34 +6117,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6130,34 +6196,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6208,34 +6275,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6286,34 +6354,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6364,34 +6433,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6442,34 +6512,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6520,34 +6591,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6598,34 +6670,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6676,34 +6749,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6754,34 +6828,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6832,34 +6907,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6910,34 +6986,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -6988,34 +7065,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7066,34 +7144,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7144,34 +7223,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7222,34 +7302,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7300,34 +7381,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7378,34 +7460,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7456,34 +7539,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7534,34 +7618,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7612,34 +7697,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7690,34 +7776,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7768,34 +7855,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7846,34 +7934,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -7924,34 +8013,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8002,34 +8092,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8080,34 +8171,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8158,34 +8250,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8236,34 +8329,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8314,34 +8408,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8392,34 +8487,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8470,34 +8566,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8548,34 +8645,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8626,34 +8724,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8704,34 +8803,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8782,34 +8882,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8860,34 +8961,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -8938,34 +9040,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9016,34 +9119,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9094,34 +9198,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9172,34 +9277,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9250,34 +9356,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9328,34 +9435,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9406,34 +9514,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9484,34 +9593,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9562,34 +9672,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9640,34 +9751,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9718,34 +9830,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9796,34 +9909,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9874,34 +9988,35 @@ section {
 .--servicio-item {
     display: flex;
     margin-bottom: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.03);
+    background-color: rgba(0, 102, 204, 0.03);
     border-radius: 8px;
     padding: 1.5rem;
     transition: all 0.3s ease;
-    border: 1px solid rgba(234, 188, 50, 0.1);
+    border: 1px solid rgba(0, 102, 204, 0.1);
 }
 
 .--servicio-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-    border-color: rgba(234, 188, 50, 0.3);
+    border-color: rgba(0, 102, 204, 0.3);
 }
 
 .--servicio-icon {
     flex-shrink: 0;
     margin-right: 1rem;
     padding-top: 0.25rem;
+    color: #0066cc;
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
 }
 
 .--servicio-content p {
-    color: #666;
+    color: #0066cc;
     margin-bottom: 0;
     font-size: 0.95rem;
     line-height: 1.6;
@@ -9972,7 +10087,7 @@ section {
 }
 
 .--servicio-content h4 {
-    color: #eabc32;
+    color: #0066cc;
     font-size: 1.1rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
