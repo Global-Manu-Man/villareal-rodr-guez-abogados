@@ -111,30 +111,53 @@ body {
 
 /* Navigation */
 .--navbar {
-  background: rgba(255, 255, 255, 0.98);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--background);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
   position: fixed;
   width: 100%;
   z-index: 1000;
-  padding: 0.8rem 0;
   transition: all 0.3s ease;
 }
 
 .--navbar .navbar-brand {
   font-weight: 600;
-  color: var(--primary-color);
+  color: #0066cc; /* Cambiado a azul */
+}
+
+.--navbar .navbar-nav {
+  gap: 1rem;
 }
 
 .--navbar .nav-link {
-  color: #333 !important;
+  color: #0066cc; /* Cambiado a azul */
   font-weight: 500;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0;
+  position: relative;
   transition: all 0.3s ease;
   font-size: 0.95rem;
 }
 
-.--navbar .nav-link:hover {
-  color: var(--primary-color) !important;
+.--navbar .nav-link:hover,
+.--navbar .nav-link.active {
+  color: #004999; /* Azul más oscuro para hover */
+}
+
+.--navbar .nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #0066cc; /* Línea inferior azul */
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.--navbar .nav-link:hover::after,
+.--navbar .nav-link.active::after {
+  transform: scaleX(1);
 }
 
 .nav-consulta {
@@ -10033,4 +10056,13 @@ ul {
 }
 
 /* Animations */
-@keyframes
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
